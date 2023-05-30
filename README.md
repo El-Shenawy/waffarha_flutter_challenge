@@ -1,16 +1,29 @@
-# waffarha_flutter_challenge
+Photo Listing App
+This is a Flutter application that fetches and displays photo data from an API. The app allows the user to sort and filter the photo data, as well as navigate through the pages of photo data using pagination buttons.
 
-A new Flutter project.
+Features
+Fetches photo data from an API
+Displays photo data in a grid or list view
+Sorts photo data by album ID or photo title
+Filters photo data by album ID
+Implements pagination to efficiently display large amounts of data
+Uses Cached Network Image package to improve image loading performance
+Thoroughly tested to ensure bug-free operation
+Getting Started
+To run this app on your local machine, follow these steps:
 
-## Getting Started
+Clone this repository: git clone https://github.com/your-username/photo-listing-app.git
+Navigate to the project directory: cd photo-listing-app
+Install the necessary dependencies: flutter pub get
+Run the app: flutter run
+Dependencies
+This app uses the following dependencies:
 
-This project is a starting point for a Flutter application.
+http: Used to make HTTP requests to the API
+get: Used for state management and dependency injection
+cached_network_image: Used for efficient loading and caching of network images
+Contributing
+If you find a bug or have a feature request, please submit an issue on the GitHub repository. Pull requests are also welcome!
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Credits
+This app was developed by Application as part of a job application process.
