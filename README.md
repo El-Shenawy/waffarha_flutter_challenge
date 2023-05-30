@@ -12,7 +12,7 @@ Thoroughly tested to ensure bug-free operation
 Getting Started
 To run this app on your local machine, follow these steps:
 
-Clone this repository: git clone https://github.com/your-username/photo-listing-app.git
+Clone this repository: git clone https://github.com/El-Shenawy/waffarha_flutter_challenge.git and checkout to master branch.
 Navigate to the project directory: cd photo-listing-app
 Install the necessary dependencies: flutter pub get
 Run the app: flutter run
