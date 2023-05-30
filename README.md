@@ -26,4 +26,5 @@ Contributing
 If you find a bug or have a feature request, please submit an issue on the GitHub repository. Pull requests are also welcome!
 
 Credits
-This app was developed by Application as part of a job application process.
+This app was developed by Ahmed El-Shenawy as part of a job application process.
+
